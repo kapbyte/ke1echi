@@ -6,4 +6,4 @@
 - 💬 Ask me about JS/TS/React/Go 
 - 📫 How to reach me: email: mrkelechichinaka@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love watching comedy movies.
+- ⚡ Fun fact: I love watching comedy movies / skits.
