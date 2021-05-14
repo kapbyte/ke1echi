@@ -1,6 +1,6 @@
 ### Hi there, my name is Kelechi! 👋
 
-- 🔭 I’m currently working as a Backend Engineer @Webbiz, during the weekends I spend time on personal projects like https://ballot-io.netlify.app/ and https://gophercises.com
+- 🔭 I’m currently working as a Backend Engineer @Webbiztek, during the weekends I spend time on personal projects like https://ballot-io.netlify.app/ and https://gophercises.com
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on anything nice :)
 - 💬 Ask me about JS/TS/React/Go 
