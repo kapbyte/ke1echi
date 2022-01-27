@@ -1,4 +1,4 @@
-### Hi there, my name is Kelechi! 👋
+### Hi there, 👋
 
 - 🔭 I’m currently working as a Software Engineer @Evolance Technologies, during the weekends I spend time on personal projects like https://ballot-io.netlify.app/ and https://gophercises.com
 - 🌱 I’m currently learning Golang.
