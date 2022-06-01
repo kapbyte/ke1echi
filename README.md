@@ -1,7 +1,6 @@
 ### Hi there, 👋
 
 - 🔭 I’m currently working as a Software Engineer @Evolance Technologies, during the weekends I spend time on personal project(s), and also try out several interesting development tools that interests me.
-- 🌱 I’m currently improving my skills on Golang.
 - 👯 I’m looking to collaborate on anything nice :)
 - 💬 Ask me about JS/TS/React/Go 
 - 📫 How to reach me: email: mrkelechichinaka@gmail.com
